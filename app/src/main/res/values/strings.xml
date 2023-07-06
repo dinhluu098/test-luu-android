@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Luu Android</string>
+    <string name="let_s_get_you_started">Let’s get you started!</string>
+    <string name="your_email">Your email</string>
+    <string name="your_password">Your password</string>
+    <string name="i_am_over_16_years_of_age">I am over 16 years of age</string>
+    <string name="by_clicking_sign_up_you_are_indicating_that_you_have_read">By clicking Sign Up, you are indicating that you have read</string>
+    <string name="and_agree_to_the">and agree to the&#160;</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="and">&#160;and&#160;</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_error">Email error</string>
+    <string name="password_error">Password error</string>
+    <string name="done">Done</string>
+    <string name="welcome_to_flutter_test">Welcome to Flutter Test</string>
+    <string name="please_select_categories_what_you_would_like_to_see_on_your_feed_you_can_set_this_later_on_filter">Please select categories what you would like to see on your feed. You can set this later on Filter.</string>
+</resources>
